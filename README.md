@@ -7,4 +7,4 @@ Next, the application asks questions to the player and tries to guess his number
 
 ![default](https://github.com/GiveEnd/GameGuessNumber/assets/60320294/062e09ee-990b-44af-8607-7f53e7025976)
 
-[default.webm](https://github.com/GiveEnd/GameGuessNumber/assets/60320294/e72a4221-cb26-448f-9ba9-bcf8c2c80926)
+https://github.com/GiveEnd/GameGuessNumber/assets/60320294/c26fdf58-cafe-461f-b184-bdb275f10860
