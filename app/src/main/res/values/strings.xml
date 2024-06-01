@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GameGuessNumber</string>
+    <string name="guess">Угадай</string>
+    <string name="back">BACK</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="endOfrange">Конец диапазона</string>
+    <string name="beginOfrange">Начало диапазона</string>
+</resources>
